@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "John Smith",
+    "team": 1,
+    "occupation": "Manager",
+    "officeNumber": 100
+  },
+  {
+    "id": 2,
+    "name": "Emily Washington",
+    "team": 2,
+    "occupation": "Manager",
+    "officeNumber": 200
+  },
+  {
+    "id": 3,
+    "name": "Matt Brown",
+    "team": 2,
+    "occupation": "Engineer",
+    "officeNumber": 101
+  },
+  {
+    "id": 4,
+    "name": "Rachel Moon",
+    "team": 1,
+    "occupation": "Engineer",
+    "officeNumber": 201
+  },
+  {
+    "id": 5,
+    "name": "Eric Matthews",
+    "team": 1,
+    "occupation": "Intern",
+    "officeNumber": 102
+  },
+  {
+    "id": 6,
+    "name": "Mary Green",
+    "team": 2,
+    "occupation": "Intern",
+    "officeNumber": 202
+  }
+]
