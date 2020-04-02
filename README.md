@@ -6,7 +6,7 @@
 
 ## Direct Link
 
--
+- https://lychee-cupcake-83786.herokuapp.com/
 
 ## Description
 
@@ -18,7 +18,7 @@ This react applications presents a user with a table of employees that can be so
 
 ## Known Bugs
 ​
-* None
+* Sorting by position worked at one point but is broken
 ​
 ## Technologies Used
 
